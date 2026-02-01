@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/nikhil-tiwari-3a454133a/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/shyshrav_2k6?igsh=MXAwMWt4MWNpcXVtaQ==">
+  <a href="https://www.instagram.com/ult1mate.void/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="mailto:nikhil.25011038g@gmail.com">
