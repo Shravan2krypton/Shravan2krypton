@@ -1,58 +1,65 @@
-# 👊 Hey there! I'm **Nikhil (Shravan) Tiwari**
+<div align="center">
 
-💻 A **Passionate Web Developer** & 🛡️ **Cybersecurity Enthusiast**  
-📚 Currently pursuing **Computer Science** | Always learning & building cool stuff  
-📩 Reach out for **projects, collaborations, or tech talk!**
+# 👊 Hey there! I'm **Nikhil (Shravan) Tiwari**
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Cybersecurity+Enthusiast;Computer+Science+Student;Open+Source+Contributor)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikhil-tiwari-3a454133a/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:nikhil.25011038g@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
 ---
+
+</div>
 
 ## 🚀 About Me
 
-- 🎯 Full-Stack Web Development Learner  
-- 🧠 Always eager to explore new tech & challenges  
-- 💬 Let's connect and build something amazing together!
+- 💻 **MERN Stack Developer** focused on building scalable web applications.
+- 🛡️ **Cybersecurity Enthusiast** exploring the intersection of development and security.
+- 📚 Currently pursuing **Computer Science** | Always learning & building cool stuff.
+- 💬 Reach out for **projects, collaborations, or tech talk!**
 
 ---
 
-## 🌐 Connect with Me
+## 🛠️ My Tech Stack
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shyshrav_2k6?igsh=MXAwMWt4MWNpcXVtaQ==)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-tiwari-3a454133a/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhil.25011038g@gmail.com)
-
----
-
-## 💻 Tech Stack
-
-**Languages & Tools:**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)  
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shravan2krypton&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravan2krypton&layout=compact&theme=dark&hide_border=false" height="150px" />
+### 🏗️ The MERN Stack & Core Web
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Shravan2krypton&theme=dark&hide_border=false" height="150px" />
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 </p>
 
 ---
 
-✨ *"Tech is an art. Code is my canvas."*  
-🚀 *Let's innovate and inspire together!*
+## 📊 GitHub Insights
 
-<!-- Designed with ❤️ by Nikhil (Shravan) Tiwari -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shravan2krypton&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravan2krypton&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shravan2krypton&theme=tokyonight&hide_border=true" width="97%" />
+</p>
+
+---
+
+<div align="center">
+
+✨ *"Tech is an art. Code is my canvas."* 🚀  
+**Let's innovate and inspire together!**
+
+</div>
