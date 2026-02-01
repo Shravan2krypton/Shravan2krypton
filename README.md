@@ -47,15 +47,15 @@
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shravan2krypton&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravan2krypton&layout=compact&theme=dark&hide_border=false" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shravan2krypton&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravan2krypton&layout=compact&theme=dark&hide_border=false" height="150px" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Shravan2krypton&theme=dark&hide_border=false" height="150px" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Shravan2krypton&theme=dark&hide_border=false" height="150px" />
 </p>
 
 ---
