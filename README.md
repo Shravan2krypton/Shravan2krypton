@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/nikhil-tiwari-3a454133a/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://www.instagram.com/shyshrav_2k6?igsh=MXAwMWt4MWNpcXVtaQ==">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
   <a href="mailto:nikhil.25011038g@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
@@ -47,12 +50,12 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shravan2krypton&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravan2krypton&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shravan2krypton&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravan2krypton&layout=compact&theme=dark&hide_border=false" height="150px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shravan2krypton&theme=tokyonight&hide_border=true" width="97%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Shravan2krypton&theme=dark&hide_border=false" height="150px" />
 </p>
 
 ---
