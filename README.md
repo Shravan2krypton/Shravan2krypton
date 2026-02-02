@@ -1,7 +1,9 @@
-<div align="center">
+
 <p align="center">
   <img src="space-shooter.gif" alt="GitHub Space Shooter" />
 </p>
+<div align="center">
+
 # 👊 Hey there! I'm **Nikhil (Shravan) Tiwari**
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Cybersecurity+Enthusiast;Computer+Science+Student;Open+Source+Contributor)](https://git.io/typing-svg)
