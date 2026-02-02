@@ -1,5 +1,7 @@
-<div align="center">
-
+no<div align="center">
+<p align="center">
+  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
+</p>
 # 👊 Hey there! I'm **Nikhil (Shravan) Tiwari**
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Cybersecurity+Enthusiast;Computer+Science+Student;Open+Source+Contributor)](https://git.io/typing-svg)
@@ -15,9 +17,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
-<p align="center">
-  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
-</p>
+
 ---
 
 </div>
