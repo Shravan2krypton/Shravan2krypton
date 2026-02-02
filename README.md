@@ -1,4 +1,4 @@
-no<div align="center">
+<div align="center">
 <p align="center">
   <img src="space-shooter.gif" alt="GitHub Space Shooter" />
 </p>
