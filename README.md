@@ -64,8 +64,6 @@
 # 📊 GitHub Insights
 <!-- ===================== GITHUB INSIGHTS ===================== -->
 
-<h2 align="center">📊 <span style="color:#58A6FF;"><b>GitHub Insights</b></span></h2>
-
 <br>
 
 <div align="center">
