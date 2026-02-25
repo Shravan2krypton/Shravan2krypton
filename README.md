@@ -53,21 +53,25 @@
 </p>
 
 ---
-
 # 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shravan2krypton&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150px" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shravan2krypton&layout=compact&theme=dark&hide_border=false" height="150px" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-ten-peach.vercel.app/?user=Shravan2krypton&theme=dark&hide_border=false" height="150px" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shravan2krypton&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" height="180px"/>
 
----
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravan2krypton&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180px"/>
+
+</div>
+
+<br>
 
 <div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shravan2krypton&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" height="180px"/>
+
+</div>
+
+---
 
 ## ⚡ Current Focus
 
