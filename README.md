@@ -95,6 +95,65 @@
 
 <br>
 ---
+<!-- ===================== GITHUB PERFORMANCE SECTION ===================== -->
+
+<h2 align="center">🏆 <span style="color:#58A6FF;"><b>GitHub Achievements</b></span></h2>
+
+<br>
+
+<div align="center">
+
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Shravan2krypton&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8" 
+  />
+
+</div>
+
+<br><br>
+
+<h2 align="center">🔝 <span style="color:#58A6FF;"><b>Top Contributed Repositories</b></span></h2>
+
+<br>
+
+<div align="center">
+
+  <img 
+    src="https://github-contributor-stats.vercel.app/api?username=Shravan2krypton&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" 
+  />
+
+</div>
+
+<br><br>
+
+<h2 align="center">📊 <span style="color:#58A6FF;"><b>GitHub Insights</b></span></h2>
+
+<br>
+
+<div align="center">
+
+  <img 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shravan2krypton&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" 
+    height="170"
+  />
+
+  <img 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shravan2krypton&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+    height="170"
+  />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img 
+    src="https://github-readme-streak-stats-ten-peach.vercel.app/?user=Shravan2krypton&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+    height="170"
+  />
+
+</div>
+---
 
 # ⚡ Current Focus
 
