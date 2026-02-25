@@ -61,14 +61,24 @@
 </p>
 
 ---
-
 # 📊 GitHub Insights
+<!-- ===================== GITHUB INSIGHTS ===================== -->
+
+<h2 align="center">📊 <span style="color:#58A6FF;"><b>GitHub Insights</b></span></h2>
+
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shravan2krypton&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" height="180"/>
+  <img 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shravan2krypton&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" 
+    height="170"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravan2krypton&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
+  <img 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shravan2krypton&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" 
+    height="170"
+  />
 
 </div>
 
@@ -76,10 +86,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shravan2krypton&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
+  <img 
+    src="https://github-readme-streak-stats-ten-peach.vercel.app/?user=Shravan2krypton&theme=dark&hide_border=true&cache_seconds=86400" 
+    height="170"
+  />
 
 </div>
 
+<br>
 ---
 
 # ⚡ Current Focus
